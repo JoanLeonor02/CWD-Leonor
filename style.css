@@ -1,0 +1,18 @@
+
+h1, h2, h3, h4, h5,h6, p {
+    font-weight: 200;
+}
+.adobe-stock{
+    position: sticky;
+    top: 0px;
+}
+.stock-link{
+    font-size: smaller;
+}
+.stock-link1{
+    font-size: smaller;
+    margin-left: 11px;
+}
+.stock-img{
+    margin: 20px 0px 10px;
+}
